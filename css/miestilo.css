@@ -1,0 +1,136 @@
+.nav_color{
+    background: color #171717;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+.font_nav{
+    color: #69A2A1;
+}
+
+.nav_button{
+    background-color: #f15e2b;
+    color: #F6F4DB;
+}
+
+.fondoblanc{
+    background-color: #f5f6f5;
+    color: #171717;
+}
+
+.fondoblak{
+    background-color: #171717;
+    color: #f5f6f5;
+}
+/*Inicio*/
+#patroninicio{
+    background-image: url("../img/PatronBG1.png");
+    padding-top: 150px;
+}
+
+.montserrat{
+  font-family: "Montserrat", sans-serif;
+  font-weight: 400px;;
+  font-style: normal;
+}
+
+
+.pixelify{
+  font-family: "Pixelify Sans", sans-serif;
+  font-weight: bold;
+  font-style: normal;
+}
+
+.colortext{
+color: #f5f6f5;
+}
+.copyright{
+    font-size: 10px;
+    color: #f5f6f5;
+}
+
+.colortext2{
+color: #69A2A1;
+}
+
+.backcolor_footer{
+    background-color: #171717;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.font_footerh3{
+    color: #f5f6f5;
+}
+
+.font_footercuerpo{
+    color: #f5f6f5;
+    font-size: 17px;
+}
+
+.iconos_footer{
+    color: #69A2A1;
+    font-size: 40px;
+}
+
+.iconos_footerdos{
+    color: #69A2A1;
+    font-size: 60px;
+    margin-right: 10px;
+}
+
+.font_footercuerpodos{
+    color: #69A2A1;
+    font-size: 18px;
+}
+
+
+
+/*ATTRIBUTOS DE PÁGINA DE INICIO - SUSAN ANDINO :)*/
+
+#fondo_principalinicio{
+    background-color: #007f81 ;
+    padding-bottom: 40px;
+}
+
+.padimg{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#imagen_doggieinicio{
+    background-image: url(../img/FotosIndex/PerritoInicial.png);
+    padding-top: 130px;
+    padding-bottom: 130px;
+    background-repeat: no-repeat;
+    background-size:cover;
+    height: 600px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border-radius: 30px;
+    
+}
+
+#separadorburb{
+    background-image: url("../img/FotosIndex/bubbles.png");
+    padding-top: 40px;
+}
+
+.titulo_burb{
+    font-size: 85px;
+    color:#F6F4DB;
+    padding-top: 155px;
+    opacity: 100%;
+}
+
+#descrip_inicio{
+    background-color:#9addfc;
+    padding-top: 50px;
+    padding-bottom: 50px;
+    padding-right: 15px;
+    padding-left: 15px;
+}
