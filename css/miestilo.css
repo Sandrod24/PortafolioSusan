@@ -6,6 +6,27 @@
     padding-right: 10px;
 }
 
+.btn-buscar {
+  background-color: #69A2A1;
+  color: white;
+  border: none;
+  transition: background-color 0.3s ease;
+}
+
+.btn-buscar:hover {
+  background-color: #558f8e;
+}
+
+.navbar .nav-link {
+  color: #69A2A1 !important;
+  transition: color 0.3s ease;
+}
+
+.navbar .nav-link:hover {
+  color: #88c0bf !important;
+}
+
+
 .font_nav{
     color: #69A2A1;
 }
@@ -24,10 +45,73 @@
     background-color: #171717;
     color: #f5f6f5;
 }
+
+.pabjarri{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.textder{
+    text-align: right;
+}
+
+.m_lados{
+    margin-left: 50px;
+    margin-bottom: 50px;
+}
+
+.sep_secc{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+
+.grande{
+    font-size: 40px;
+}
+
+.videos{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.videocenter{
+    max-width: 100%; 
+    height: auto;   
+    display: block;
+    margin: 0 auto; 
+}
+.centrado{
+    text-align: center;
+}
+
+.color_azul{
+    color: #69A2A1;
+}
+
+.just{
+    text-align: center;
+}
+.sombras{
+    box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+
+}
+
+.p_arribayabajo{
+    padding-top: 100px;
+    padding-bottom: 100px;
+}
+
+
 /*Inicio*/
 #patroninicio{
     background-image: url("../img/PatronBG1.png");
     padding-top: 150px;
+}
+
+#patronproy{
+    background-image: url("../img/PatronBG2.png");
+    
 }
 
 .montserrat{
@@ -94,6 +178,11 @@ color: #69A2A1;
 
 #fondo_principalinicio{
     background-color: #007f81 ;
+    padding-bottom: 40px;
+}
+
+#fondo_principalproy{
+    background-color: #69A2A1 ;
     padding-bottom: 40px;
 }
 
